@@ -1,0 +1,5 @@
+@layer components {
+  .btn {
+    @apply px-5 py-3 font-content font-medium text-white bg-elegant-black rounded-lg transition transform inline-block hover:scale-110 hover:shadow-xl
+  }
+}
