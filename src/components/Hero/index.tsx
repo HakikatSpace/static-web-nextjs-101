@@ -15,7 +15,7 @@ const Hero: NextComponentType<NextPageContext, any, any> = (props) => {
 
                 <div className="relative flex flex-col items-center max-w-screen text-center">
                     <div className="mt-24 mb-16">
-                        <img src='/logo.jpg' width={150} height={150} alt="logo.jpg" className="rounded-3xl" />
+                        <img src='logo.jpg' width={150} height={150} alt="logo.jpg" className="rounded-3xl" />
                     </div>
                     <div className="flex flex-col justify-center mx-16 max-w-prose">
                         <h1 className="text-3xl sm:text-5xl mb-8 font-heading">

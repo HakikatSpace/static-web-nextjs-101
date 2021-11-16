@@ -1,5 +1,4 @@
 import type { NextComponentType, NextPageContext } from 'next';
-import Image from 'next/image';
 
 interface ReviewCardProps extends React.ComponentProps<'div'>{
     name: string,
