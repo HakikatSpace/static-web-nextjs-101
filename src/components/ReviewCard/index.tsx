@@ -12,7 +12,7 @@ const ReviewCard: NextComponentType<NextPageContext, any, ReviewCardProps> = (pr
         <div>
             <blockquote className="p-4 mb-8 bg-gray-100 rounded-lg mx-8 shadow-md">
                 <div className="flex items-center">
-                    <Image
+                    <img
                         src={props.photo}
                         alt="user_photo"
                         width={64}
